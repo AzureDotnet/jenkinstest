@@ -1,0 +1,14 @@
+C:\jentest\bin\Debug\net9.0\jentest.exe
+C:\jentest\bin\Debug\net9.0\jentest.deps.json
+C:\jentest\bin\Debug\net9.0\jentest.runtimeconfig.json
+C:\jentest\bin\Debug\net9.0\jentest.dll
+C:\jentest\bin\Debug\net9.0\jentest.pdb
+C:\jentest\obj\Debug\net9.0\jentest.GeneratedMSBuildEditorConfig.editorconfig
+C:\jentest\obj\Debug\net9.0\jentest.AssemblyInfoInputs.cache
+C:\jentest\obj\Debug\net9.0\jentest.AssemblyInfo.cs
+C:\jentest\obj\Debug\net9.0\jentest.csproj.CoreCompileInputs.cache
+C:\jentest\obj\Debug\net9.0\jentest.dll
+C:\jentest\obj\Debug\net9.0\refint\jentest.dll
+C:\jentest\obj\Debug\net9.0\jentest.pdb
+C:\jentest\obj\Debug\net9.0\jentest.genruntimeconfig.cache
+C:\jentest\obj\Debug\net9.0\ref\jentest.dll
